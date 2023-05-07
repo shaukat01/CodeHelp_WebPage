@@ -7,8 +7,6 @@ Netlify
 # Visit & Short URL : 
 https://md-codehelp.netlify.app/
 
-# Features :
-
 # Demo :
 ![Screenshot (129)](https://user-images.githubusercontent.com/86542840/236693872-508a32f6-6246-4ea3-8443-de5ead29b7b6.png)
 
